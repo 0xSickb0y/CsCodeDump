@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casting", "Casting.csproj", "{F6B9A2BE-11F3-33E6-7A79-6F17BC7D658D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Value-vs-Reference", "..\Value-vs-Reference\Value-vs-Reference.csproj", "{2693C55D-A4E8-4E15-AF65-5BA85E9F5271}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B9A2BE-11F3-33E6-7A79-6F17BC7D658D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B9A2BE-11F3-33E6-7A79-6F17BC7D658D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B9A2BE-11F3-33E6-7A79-6F17BC7D658D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B9A2BE-11F3-33E6-7A79-6F17BC7D658D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2693C55D-A4E8-4E15-AF65-5BA85E9F5271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2693C55D-A4E8-4E15-AF65-5BA85E9F5271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2693C55D-A4E8-4E15-AF65-5BA85E9F5271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2693C55D-A4E8-4E15-AF65-5BA85E9F5271}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6766DF9E-9D1A-4604-9A4F-17B28D99F1EF}
+	EndGlobalSection
+EndGlobal
